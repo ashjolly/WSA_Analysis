@@ -7,7 +7,7 @@ The aim of this paper was to examine consultation process and policy outcomes as
 
 Two scrips were used to parse and organize individual submissions to the consultation process, which are all available through the BC Ministry of Environment's Website:
 
-1. "WaterAct_split files.R" 
+1. "WaterAct_splitfiles.R" 
 
 This function takes a specified, random percentage of files within a folder and saves the selected files to a new folder. 
 
