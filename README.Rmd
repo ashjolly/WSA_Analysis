@@ -3,6 +3,7 @@ title: "WSA Script overview"
 output:
   md_document:
     variant: markdown_github
+    knit(input="README.rmd", output = "README.md") #see ?knit for more options
 ---
 
 This is the read me file to accompany scripts used in analysis of BC Water Sustainability Act Modernization process. All files here were used to analyze data contained within the upcoming publication:
