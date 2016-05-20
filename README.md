@@ -1,5 +1,5 @@
-# WSA_Analysis
-Scripts for undertaking tasks associated with Water Sustainability Act analysis. 
+# WSA Analysis
+Scripts for organizing data towards the analysis of submissions gained as part of the consultation process for British Columbia's Water Sustainability Act . 
 
 This is the read me file to accompany scripts used in analysis of BC Water Sustainability Act Modernization process. All files here were used to analyze data contained within the upcoming publication:
 
